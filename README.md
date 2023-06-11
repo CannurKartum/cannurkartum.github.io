@@ -1,2 +1,2 @@
 # cannurkartum.github.io
-My website 
+My first portfolio website --> "cannurkartum.dev"
